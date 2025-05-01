@@ -1,0 +1,240 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Algorithms",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "AdjacencyListAlgorithm::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AdjacencyListAlgorithm-Debug-69b2540c0d3e8ae477bd.json",
+					"name" : "AdjacencyListAlgorithm",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "BinarySearchAlgorithm::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BinarySearchAlgorithm-Debug-555c8e1b699027c517af.json",
+					"name" : "BinarySearchAlgorithm",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "BinaryTree::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BinaryTree-Debug-d99602a6319106beb3a3.json",
+					"name" : "BinaryTree",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CustomStackAlgorithm::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CustomStackAlgorithm-Debug-f7e9198dcd02fad7dbd8.json",
+					"name" : "CustomStackAlgorithm",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DagPathAlgorithm::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DagPathAlgorithm-Debug-fc174069704e113a6bde.json",
+					"name" : "DagPathAlgorithm",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DijkstraAlgorithm::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DijkstraAlgorithm-Debug-bc7d5497411d2ed50602.json",
+					"name" : "DijkstraAlgorithm",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DijkstraShortestPathAlgorithm::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DijkstraShortestPathAlgorithm-Debug-1d0afdffa871c4a38404.json",
+					"name" : "DijkstraShortestPathAlgorithm",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "FindCycleDfsAlgorithm::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-FindCycleDfsAlgorithm-Debug-f113f392df9f2e703b4c.json",
+					"name" : "FindCycleDfsAlgorithm",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "FindMstAlgorithm::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-FindMstAlgorithm-Debug-a1a9a4af5f4f888ee969.json",
+					"name" : "FindMstAlgorithm",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "FordFulkersonAlgorithm::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-FordFulkersonAlgorithm-Debug-2a047b5707b1ed1b3fbb.json",
+					"name" : "FordFulkersonAlgorithm",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GamiltonovWayAlgorithm::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GamiltonovWayAlgorithm-Debug-d599fcc746b0b445b929.json",
+					"name" : "GamiltonovWayAlgorithm",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GraphConnectivityAlgorithm::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GraphConnectivityAlgorithm-Debug-726eb15226c17ae88a10.json",
+					"name" : "GraphConnectivityAlgorithm",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GreyCodeAlgorithm::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GreyCodeAlgorithm-Debug-421cae066049c8723c6f.json",
+					"name" : "GreyCodeAlgorithm",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "HammingAlgorithm::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HammingAlgorithm-Debug-df12feab32f678b86257.json",
+					"name" : "HammingAlgorithm",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "HashTableAlgorithm::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HashTableAlgorithm-Debug-d9ffb6872348196c1807.json",
+					"name" : "HashTableAlgorithm",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "KnuthMorrisPrattAlgorithm::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-KnuthMorrisPrattAlgorithm-Debug-dc334b288ff13437fad6.json",
+					"name" : "KnuthMorrisPrattAlgorithm",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "KruskalAlgorithm::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-KruskalAlgorithm-Debug-bb663c261727cfb7e244.json",
+					"name" : "KruskalAlgorithm",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RleAlgorithm::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RleAlgorithm-Debug-39c7e0f0cf44e35d5589.json",
+					"name" : "RleAlgorithm",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ShortWayBfsAlgorithm::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ShortWayBfsAlgorithm-Debug-b5b94527b79d0c09ef66.json",
+					"name" : "ShortWayBfsAlgorithm",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "StackAlgorithm::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-StackAlgorithm-Debug-e3aad48c47f4d6ec2a17.json",
+					"name" : "StackAlgorithm",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "UnionSetsKruskalAlgorithm::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-UnionSetsKruskalAlgorithm-Debug-6fa587c31d759edda5be.json",
+					"name" : "UnionSetsKruskalAlgorithm",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/setch/CLionProjects/Algorithms/cmake-build-debug",
+		"source" : "C:/Users/setch/CLionProjects/Algorithms"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

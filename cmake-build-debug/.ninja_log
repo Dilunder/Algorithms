@@ -1,0 +1,12 @@
+# ninja log v5
+896	1025	7053340652018378	Young_scientists.exe	99f7edd42a9e95dc
+0	637	7667055695275363	CMakeFiles/KruskalAlgorithm.dir/main.cpp.obj	7e8dc503b9e5243d
+468	626	7667067652893280	DijkstraAlgorithm.exe	c7dbfe8910519622
+524	635	7667086988091429	AdjacencyListAlgorithm.exe	338556b9e7021db3
+639	811	7667055696961190	KruskalAlgorithm.exe	f0cf9256278412f0
+0	467	7667067651353660	CMakeFiles/DijkstraAlgorithm.dir/dijkstra_main.cpp.obj	175a906bc9ae6a9d
+0	523	7667086987027299	CMakeFiles/AdjacencyListAlgorithm.dir/adjacency_list_main.cpp.obj	c08408b209bea1e0
+0	317	7667090471958076	CMakeFiles/BinarySearchAlgorithm.dir/binary_search_main.cpp.obj	abe43b42681f2a0b
+319	444	7667090473164415	BinarySearchAlgorithm.exe	2ee1b0437809983f
+1	331	7667101220177742	CMakeFiles/BinaryTree.dir/binary_tree.cpp.obj	8d0d62703a421e8f
+331	446	7667101221285907	BinaryTree.exe	b3a6d9bf57866ac8
